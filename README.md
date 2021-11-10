@@ -24,7 +24,7 @@ Things including:
 
 If you need to report any bugs, please contact rhys#9931 on Discord!
 
-## Authors
+## Creators
 
 * [Rhys](https://github.com/rhysfr)
 * [Ibrahim](https://github.com/IbrahimDevX)
