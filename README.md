@@ -4,7 +4,11 @@ One of the best Multipurpose Discord bots
 
 ## Features
 
-Things including: Music, Truth or Dare, Moderation Commands 
+Things including: 
+* Music
+* Truth Or Dare
+* Moderation Commands
+* Fun Commands
 
 ## Getting Started
 
